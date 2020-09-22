@@ -1,0 +1,2 @@
+ADO - C:\Program Files\Microsoft Visual Studio\VB98\NWIND|ADO - Provider=MSDASQL.1;Extended Properties="DSN=MS Access 97 Database;DBQ=C:\Program Files\Microsoft Visual Studio\VB98\NWIND.MDB;DefaultDir=C:\Program Files\Microsoft Visual Studio\VB98;DriverId=281;FIL=MS Access;MaxBufferSize=2048;PageTimeout=5;"
+DAO - C:\Program Files\Microsoft Visual Studio\VB98\NWIND.MDB|DAO
